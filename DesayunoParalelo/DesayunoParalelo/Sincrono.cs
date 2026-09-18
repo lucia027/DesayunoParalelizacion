@@ -2,30 +2,30 @@
 
 public class Sincrono {
     public void PrepararCafe() {
-        Thread.Sleep(3000);
+        Thread.Sleep(200);
     }
     
     public void CalentarSarten() {
-        Thread.Sleep(3000);
+        Thread.Sleep(200);
     }
     
     public void FreirHuevo() {
-        Thread.Sleep(4000);
+        Thread.Sleep(300);
     }
     
     public void FreirBacon() {
-        Thread.Sleep(3000);
+        Thread.Sleep(300);
     }
     
     public void TostarPan() {
-        Thread.Sleep(3000);
+        Thread.Sleep(200);
     }
     
     public void UntarMermelada() {
-        Thread.Sleep(1000);
+        Thread.Sleep(100);
     }
     
     public void PrepararZumo() {
-        Thread.Sleep(2000);
+        Thread.Sleep(200);
     }
 }

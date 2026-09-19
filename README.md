@@ -5,8 +5,8 @@
 | 🔴 Ejecución síncrona             |       `1552 ms` |        ✅        |
 | 🟠 Asincronía secuencial          |       `1544 ms` |        ✅        |
 | 🟢 Asincronía optimizada          |        `515 ms` |        ✅        |
-| ⏳ Asincronía secuencial + timeout |      `500 ms` |        ✅        |
-| ⚡ Asincronía optimizada + timeout |      `500 ms` |        ✅        |
+| ⏳ Asincronía secuencial + timeout |      `500 ms` |        ❎        |
+| ⚡ Asincronía optimizada + timeout |      `500 ms` |        ❎        |
 
 <br>
 <br>
